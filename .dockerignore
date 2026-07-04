@@ -1,0 +1,8 @@
+# 忽略 Git 和临时文件
+.git/
+.gitignore
+*.log
+batch_logs/
+__pycache__/
+*.pyc
+.DS_Store
