@@ -11,7 +11,7 @@
 | 文档 | 适用人群 | 预计时间 |
 |------|---------|:--:|
 | **[🌟 新手完全指南](新手完全指南.md)** | 零基础组学分析小白（从安装 conda 到验收结果） | 30 分钟阅读 + 1 天执行 |
-| **[SKILL.md](SKILL.md)** | WispTerm AI 助手调用 | — |
+| **[SKILL.md](SKILL.md)** | AI 助手调用 | — |
 | **[scripts/华大批量上游分析dnbc4tools.sh](scripts/华大批量上游分析dnbc4tools.sh)** | 批量分析脚本 | — |
 
 > ⚠️ **如果你不确定该看哪个** → 直接打开 **[新手完全指南](新手完全指南.md)**，从第一章开始！
@@ -49,7 +49,7 @@ tail -f batch_analysis.log
 dnbc4tools-test/
 ├── README.md                                    ← 本文件
 ├── 新手完全指南.md                                ← 🌟 从这里开始！
-├── SKILL.md                                     ← WispTerm 技能文件
+├── SKILL.md                                     ← 技能文件
 └── scripts/
     └── 华大批量上游分析dnbc4tools.sh               ← 批量分析脚本 (747 行, v3.1)
 ```
