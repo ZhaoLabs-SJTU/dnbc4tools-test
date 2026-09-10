@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.part
+*.log
+
+# 虚拟环境
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 生成文档（自动生成）
+generate_docs.py
+生成小白文档.py

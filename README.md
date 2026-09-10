@@ -3,6 +3,7 @@
 > **一句话说明**：帮你在 Linux 服务器上从零搭建华大单细胞转录组上游分析环境，并批量跑完所有样本。
 
 [![version](https://img.shields.io/badge/version-v3.1-blue)]()
+[![CI](https://github.com/ZhaoLabs-SJTU/dnbc4tools-test/actions/workflows/ci.yml/badge.svg)](https://github.com/ZhaoLabs-SJTU/dnbc4tools-test/actions/workflows/ci.yml)
 
 ---
 
